@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AayushN007/Python-Programming/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/AayushN007/Python-Programming/tree/master/0041-first-missing-positive) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AayushN007/Python-Programming/tree/master/0040-combination-sum-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/AayushN007/Python-Programming/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
