@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AayushN007/Python-Programming/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AayushN007/Python-Programming/tree/master/0042-trapping-rain-water) |
 | [1991-find-the-middle-index-in-array](https://github.com/AayushN007/Python-Programming/tree/master/1991-find-the-middle-index-in-array) |
+| [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
 ## Backtracking
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/AayushN007/Python-Programming/tree/master/0041-first-missing-positive) |
+| [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/AayushN007/Python-Programming/tree/master/1991-find-the-middle-index-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
 <!---LeetCode Topics End-->
