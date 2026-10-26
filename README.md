@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AayushN007/Python-Programming/tree/master/0042-trapping-rain-water) |
 | [1991-find-the-middle-index-in-array](https://github.com/AayushN007/Python-Programming/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/AayushN007/Python-Programming/tree/master/0041-first-missing-positive) |
 | [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
+## Counting
+|  |
+| ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
