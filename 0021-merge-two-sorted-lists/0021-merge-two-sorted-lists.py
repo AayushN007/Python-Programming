@@ -21,7 +21,7 @@ class Solution:
         for i in range(len(l1)):
             temp=ListNode(l1[i])
             curr.next=temp
-            curr=temp
+            curr=curr.next
         return dummy.next
 
 
