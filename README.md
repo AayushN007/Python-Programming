@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/AayushN007/Python-Programming/tree/master/0041-first-missing-positive) |
+| [0205-isomorphic-strings](https://github.com/AayushN007/Python-Programming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AayushN007/Python-Programming/tree/master/0242-valid-anagram) |
 | [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AayushN007/Python-Programming/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/AayushN007/Python-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AayushN007/Python-Programming/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/AayushN007/Python-Programming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AayushN007/Python-Programming/tree/master/0242-valid-anagram) |
 ## Bracket Sequences
 |  |
