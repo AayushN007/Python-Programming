@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AayushN007/Python-Programming/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/AayushN007/Python-Programming/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/AayushN007/Python-Programming/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AayushN007/Python-Programming/tree/master/0242-valid-anagram) |
 ## Bracket Sequences
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/AayushN007/Python-Programming/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/AayushN007/Python-Programming/tree/master/0171-excel-sheet-column-number) |
 ## Sorting
 |  |
 | ------- |
