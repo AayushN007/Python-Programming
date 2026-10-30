@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AayushN007/Python-Programming/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/AayushN007/Python-Programming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AayushN007/Python-Programming/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/AayushN007/Python-Programming/tree/master/0383-ransom-note) |
 | [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AayushN007/Python-Programming/tree/master/0383-ransom-note) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Matrix
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AayushN007/Python-Programming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AayushN007/Python-Programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AayushN007/Python-Programming/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/AayushN007/Python-Programming/tree/master/0383-ransom-note) |
 ## Bracket Sequences
 |  |
 | ------- |
