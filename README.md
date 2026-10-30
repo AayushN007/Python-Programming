@@ -71,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AayushN007/Python-Programming/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/AayushN007/Python-Programming/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/AayushN007/Python-Programming/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AayushN007/Python-Programming/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AayushN007/Python-Programming/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/AayushN007/Python-Programming/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/AayushN007/Python-Programming/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
