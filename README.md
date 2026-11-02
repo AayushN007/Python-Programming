@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AayushN007/Python-Programming/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AayushN007/Python-Programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/AayushN007/Python-Programming/tree/master/0409-longest-palindrome) |
 | [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AayushN007/Python-Programming/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/AayushN007/Python-Programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/AayushN007/Python-Programming/tree/master/0409-longest-palindrome) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AayushN007/Python-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/AayushN007/Python-Programming/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
