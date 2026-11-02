@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AayushN007/Python-Programming/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/AayushN007/Python-Programming/tree/master/0482-license-key-formatting) |
+| [0520-detect-capital](https://github.com/AayushN007/Python-Programming/tree/master/0520-detect-capital) |
 ## Bracket Sequences
 |  |
 | ------- |
