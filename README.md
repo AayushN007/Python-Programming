@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/AayushN007/Python-Programming/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/AayushN007/Python-Programming/tree/master/0412-fizz-buzz) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AayushN007/Python-Programming/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AayushN007/Python-Programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AayushN007/Python-Programming/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/AayushN007/Python-Programming/tree/master/0412-fizz-buzz) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AayushN007/Python-Programming/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/AayushN007/Python-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AayushN007/Python-Programming/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/AayushN007/Python-Programming/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
