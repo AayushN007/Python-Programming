@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AayushN007/Python-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/AayushN007/Python-Programming/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/AayushN007/Python-Programming/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/AayushN007/Python-Programming/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AayushN007/Python-Programming/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AayushN007/Python-Programming/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AayushN007/Python-Programming/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AayushN007/Python-Programming/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/AayushN007/Python-Programming/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/AayushN007/Python-Programming/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AayushN007/Python-Programming/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
