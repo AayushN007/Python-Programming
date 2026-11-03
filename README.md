@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AayushN007/Python-Programming/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AayushN007/Python-Programming/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/AayushN007/Python-Programming/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AayushN007/Python-Programming/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AayushN007/Python-Programming/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/AayushN007/Python-Programming/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/AayushN007/Python-Programming/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AayushN007/Python-Programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AayushN007/Python-Programming/tree/master/0409-longest-palindrome) |
