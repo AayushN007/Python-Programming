@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/AayushN007/Python-Programming/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AayushN007/Python-Programming/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/AayushN007/Python-Programming/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AayushN007/Python-Programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AayushN007/Python-Programming/tree/master/0876-middle-of-the-linked-list) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/AayushN007/Python-Programming/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AayushN007/Python-Programming/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/AayushN007/Python-Programming/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/AayushN007/Python-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AayushN007/Python-Programming/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AayushN007/Python-Programming/tree/master/0205-isomorphic-strings) |
