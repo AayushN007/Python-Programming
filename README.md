@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AayushN007/Python-Programming/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/AayushN007/Python-Programming/tree/master/0482-license-key-formatting) |
+| [0504-base-7](https://github.com/AayushN007/Python-Programming/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/AayushN007/Python-Programming/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/AayushN007/Python-Programming/tree/master/0657-robot-return-to-origin) |
 | [1544-make-the-string-great](https://github.com/AayushN007/Python-Programming/tree/master/1544-make-the-string-great) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AayushN007/Python-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AayushN007/Python-Programming/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/AayushN007/Python-Programming/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/AayushN007/Python-Programming/tree/master/0504-base-7) |
 ## Sorting
 |  |
 | ------- |
