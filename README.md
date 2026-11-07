@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/AayushN007/Python-Programming/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/AayushN007/Python-Programming/tree/master/0412-fizz-buzz) |
+| [0657-robot-return-to-origin](https://github.com/AayushN007/Python-Programming/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AayushN007/Python-Programming/tree/master/0682-baseball-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AayushN007/Python-Programming/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Linked List
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/AayushN007/Python-Programming/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/AayushN007/Python-Programming/tree/master/0520-detect-capital) |
+| [0657-robot-return-to-origin](https://github.com/AayushN007/Python-Programming/tree/master/0657-robot-return-to-origin) |
 | [1544-make-the-string-great](https://github.com/AayushN007/Python-Programming/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
