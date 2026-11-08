@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AayushN007/Python-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/AayushN007/Python-Programming/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AayushN007/Python-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/AayushN007/Python-Programming/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/AayushN007/Python-Programming/tree/master/0205-isomorphic-strings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AayushN007/Python-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AayushN007/Python-Programming/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AayushN007/Python-Programming/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/AayushN007/Python-Programming/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AayushN007/Python-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AayushN007/Python-Programming/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/AayushN007/Python-Programming/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/AayushN007/Python-Programming/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/AayushN007/Python-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AayushN007/Python-Programming/tree/master/0171-excel-sheet-column-number) |
