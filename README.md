@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AayushN007/Python-Programming/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/AayushN007/Python-Programming/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/AayushN007/Python-Programming/tree/master/0682-baseball-game) |
+| [0804-unique-morse-code-words](https://github.com/AayushN007/Python-Programming/tree/master/0804-unique-morse-code-words) |
 | [1991-find-the-middle-index-in-array](https://github.com/AayushN007/Python-Programming/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AayushN007/Python-Programming/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/AayushN007/Python-Programming/tree/master/0409-longest-palindrome) |
+| [0804-unique-morse-code-words](https://github.com/AayushN007/Python-Programming/tree/master/0804-unique-morse-code-words) |
 | [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/AayushN007/Python-Programming/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/AayushN007/Python-Programming/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/AayushN007/Python-Programming/tree/master/0657-robot-return-to-origin) |
+| [0804-unique-morse-code-words](https://github.com/AayushN007/Python-Programming/tree/master/0804-unique-morse-code-words) |
 | [1544-make-the-string-great](https://github.com/AayushN007/Python-Programming/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
