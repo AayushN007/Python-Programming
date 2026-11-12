@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/AayushN007/Python-Programming/tree/master/0917-reverse-only-letters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/AayushN007/Python-Programming/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1370-increasing-decreasing-string](https://github.com/AayushN007/Python-Programming/tree/master/1370-increasing-decreasing-string) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/AayushN007/Python-Programming/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1544-make-the-string-great](https://github.com/AayushN007/Python-Programming/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
