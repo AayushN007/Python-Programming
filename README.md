@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AayushN007/Python-Programming/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/AayushN007/Python-Programming/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/AayushN007/Python-Programming/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/AayushN007/Python-Programming/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/AayushN007/Python-Programming/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/AayushN007/Python-Programming/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/AayushN007/Python-Programming/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1370-increasing-decreasing-string](https://github.com/AayushN007/Python-Programming/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/AayushN007/Python-Programming/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
