@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AayushN007/Python-Programming/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/AayushN007/Python-Programming/tree/master/0682-baseball-game) |
 | [0804-unique-morse-code-words](https://github.com/AayushN007/Python-Programming/tree/master/0804-unique-morse-code-words) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/AayushN007/Python-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1991-find-the-middle-index-in-array](https://github.com/AayushN007/Python-Programming/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/AayushN007/Python-Programming/tree/master/0804-unique-morse-code-words) |
 | [0859-buddy-strings](https://github.com/AayushN007/Python-Programming/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/AayushN007/Python-Programming/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/AayushN007/Python-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/AayushN007/Python-Programming/tree/master/1370-increasing-decreasing-string) |
 | [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AayushN007/Python-Programming/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AayushN007/Python-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/AayushN007/Python-Programming/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/AayushN007/Python-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/AayushN007/Python-Programming/tree/master/1370-increasing-decreasing-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Matrix
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/AayushN007/Python-Programming/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/AayushN007/Python-Programming/tree/master/1154-day-of-the-year) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/AayushN007/Python-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/AayushN007/Python-Programming/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1370-increasing-decreasing-string](https://github.com/AayushN007/Python-Programming/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/AayushN007/Python-Programming/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
