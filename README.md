@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/AayushN007/Python-Programming/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AayushN007/Python-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/AayushN007/Python-Programming/tree/master/1370-increasing-decreasing-string) |
+| [1496-path-crossing](https://github.com/AayushN007/Python-Programming/tree/master/1496-path-crossing) |
 | [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AayushN007/Python-Programming/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/AayushN007/Python-Programming/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/AayushN007/Python-Programming/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1446-consecutive-characters](https://github.com/AayushN007/Python-Programming/tree/master/1446-consecutive-characters) |
+| [1496-path-crossing](https://github.com/AayushN007/Python-Programming/tree/master/1496-path-crossing) |
 | [1544-make-the-string-great](https://github.com/AayushN007/Python-Programming/tree/master/1544-make-the-string-great) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/AayushN007/Python-Programming/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1678-goal-parser-interpretation](https://github.com/AayushN007/Python-Programming/tree/master/1678-goal-parser-interpretation) |
