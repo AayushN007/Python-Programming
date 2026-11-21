@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/AayushN007/Python-Programming/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AayushN007/Python-Programming/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1078-occurrences-after-bigram](https://github.com/AayushN007/Python-Programming/tree/master/1078-occurrences-after-bigram) |
 | [1154-day-of-the-year](https://github.com/AayushN007/Python-Programming/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AayushN007/Python-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/AayushN007/Python-Programming/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
