@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AayushN007/Python-Programming/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AayushN007/Python-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/AayushN007/Python-Programming/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/AayushN007/Python-Programming/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/AayushN007/Python-Programming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AayushN007/Python-Programming/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AayushN007/Python-Programming/tree/master/0290-word-pattern) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AayushN007/Python-Programming/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AayushN007/Python-Programming/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/AayushN007/Python-Programming/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/AayushN007/Python-Programming/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/AayushN007/Python-Programming/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/AayushN007/Python-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AayushN007/Python-Programming/tree/master/0171-excel-sheet-column-number) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AayushN007/Python-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/AayushN007/Python-Programming/tree/master/0076-minimum-window-substring) |
 ## Greedy
 |  |
 | ------- |
