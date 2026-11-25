@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/AayushN007/Python-Programming/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/AayushN007/Python-Programming/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/AayushN007/Python-Programming/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/AayushN007/Python-Programming/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/AayushN007/Python-Programming/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/AayushN007/Python-Programming/tree/master/0917-reverse-only-letters) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AayushN007/Python-Programming/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/AayushN007/Python-Programming/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/AayushN007/Python-Programming/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/AayushN007/Python-Programming/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AayushN007/Python-Programming/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/AayushN007/Python-Programming/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AayushN007/Python-Programming/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/AayushN007/Python-Programming/tree/master/0844-backspace-string-compare) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AayushN007/Python-Programming/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/AayushN007/Python-Programming/tree/master/0696-count-binary-substrings) |
 | [0804-unique-morse-code-words](https://github.com/AayushN007/Python-Programming/tree/master/0804-unique-morse-code-words) |
 | [0824-goat-latin](https://github.com/AayushN007/Python-Programming/tree/master/0824-goat-latin) |
+| [0844-backspace-string-compare](https://github.com/AayushN007/Python-Programming/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/AayushN007/Python-Programming/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/AayushN007/Python-Programming/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/AayushN007/Python-Programming/tree/master/0917-reverse-only-letters) |
