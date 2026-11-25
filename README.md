@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AayushN007/Python-Programming/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/AayushN007/Python-Programming/tree/master/0682-baseball-game) |
 | [0804-unique-morse-code-words](https://github.com/AayushN007/Python-Programming/tree/master/0804-unique-morse-code-words) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AayushN007/Python-Programming/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AayushN007/Python-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1991-find-the-middle-index-in-array](https://github.com/AayushN007/Python-Programming/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/AayushN007/Python-Programming/tree/master/1995-count-special-quadruplets) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/AayushN007/Python-Programming/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/AayushN007/Python-Programming/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/AayushN007/Python-Programming/tree/master/0925-long-pressed-name) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AayushN007/Python-Programming/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AayushN007/Python-Programming/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/AayushN007/Python-Programming/tree/master/1078-occurrences-after-bigram) |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AayushN007/Python-Programming/tree/master/1071-greatest-common-divisor-of-strings) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/AayushN007/Python-Programming/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
