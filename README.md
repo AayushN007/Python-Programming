@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AayushN007/Python-Programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/AayushN007/Python-Programming/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/AayushN007/Python-Programming/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/AayushN007/Python-Programming/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/AayushN007/Python-Programming/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AayushN007/Python-Programming/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AayushN007/Python-Programming/tree/master/0290-word-pattern) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/AayushN007/Python-Programming/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/AayushN007/Python-Programming/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AayushN007/Python-Programming/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/AayushN007/Python-Programming/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/AayushN007/Python-Programming/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AayushN007/Python-Programming/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AayushN007/Python-Programming/tree/master/0205-isomorphic-strings) |
@@ -295,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/AayushN007/Python-Programming/tree/master/0944-delete-columns-to-make-sorted) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/AayushN007/Python-Programming/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/AayushN007/Python-Programming/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
