@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AayushN007/Python-Programming/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/AayushN007/Python-Programming/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/AayushN007/Python-Programming/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/AayushN007/Python-Programming/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/AayushN007/Python-Programming/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/AayushN007/Python-Programming/tree/master/0392-is-subsequence) |
 ## Stack
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/AayushN007/Python-Programming/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/AayushN007/Python-Programming/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/AayushN007/Python-Programming/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/AayushN007/Python-Programming/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/AayushN007/Python-Programming/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AayushN007/Python-Programming/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/AayushN007/Python-Programming/tree/master/0168-excel-sheet-column-title) |
