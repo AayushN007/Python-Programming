@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AayushN007/Python-Programming/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/AayushN007/Python-Programming/tree/master/0071-simplify-path) |
 | [0682-baseball-game](https://github.com/AayushN007/Python-Programming/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/AayushN007/Python-Programming/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/AayushN007/Python-Programming/tree/master/1021-remove-outermost-parentheses) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AayushN007/Python-Programming/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/AayushN007/Python-Programming/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/AayushN007/Python-Programming/tree/master/0065-valid-number) |
+| [0071-simplify-path](https://github.com/AayushN007/Python-Programming/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/AayushN007/Python-Programming/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/AayushN007/Python-Programming/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/AayushN007/Python-Programming/tree/master/0087-scramble-string) |
